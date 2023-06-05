@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/autoelectric/static/css/main.c648af31.css",
-    "main.js": "/autoelectric/static/js/main.045517f5.js",
+    "main.js": "/autoelectric/static/js/main.ddcad8c1.js",
     "static/media/sliderImg.png": "/autoelectric/static/media/sliderImg.bde6c9c4b6647dc1ffb4.png",
     "static/media/sectionBanner.png": "/autoelectric/static/media/sectionBanner.86e1b49376217e8ea23d.png",
     "static/media/newsImg.png": "/autoelectric/static/media/newsImg.f595e845bef343e32f72.png",
@@ -21,10 +21,10 @@
     "static/media/slick.woff": "/autoelectric/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/autoelectric/index.html",
     "main.c648af31.css.map": "/autoelectric/static/css/main.c648af31.css.map",
-    "main.045517f5.js.map": "/autoelectric/static/js/main.045517f5.js.map"
+    "main.ddcad8c1.js.map": "/autoelectric/static/js/main.ddcad8c1.js.map"
   },
   "entrypoints": [
     "static/css/main.c648af31.css",
-    "static/js/main.045517f5.js"
+    "static/js/main.ddcad8c1.js"
   ]
 }
