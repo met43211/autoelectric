@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/autoelectric/static/css/main.c648af31.css",
+    "main.js": "/autoelectric/static/js/main.045517f5.js",
+    "static/media/sliderImg.png": "/autoelectric/static/media/sliderImg.bde6c9c4b6647dc1ffb4.png",
+    "static/media/sectionBanner.png": "/autoelectric/static/media/sectionBanner.86e1b49376217e8ea23d.png",
+    "static/media/newsImg.png": "/autoelectric/static/media/newsImg.f595e845bef343e32f72.png",
+    "static/media/menuBanner.png": "/autoelectric/static/media/menuBanner.6694d8c4546fbf29fcb3.png",
+    "static/media/productSaleImg.png": "/autoelectric/static/media/productSaleImg.67d4ea0755afea74a13e.png",
+    "static/media/technicCategory4.png": "/autoelectric/static/media/technicCategory4.423022ccddf0e3a8a1d6.png",
+    "static/media/technicCategory6.png": "/autoelectric/static/media/technicCategory6.e101e0953ffa16e224fe.png",
+    "static/media/technicCategory2.png": "/autoelectric/static/media/technicCategory2.42395d8014f1240a5bfb.png",
+    "static/media/technicCategory1.png": "/autoelectric/static/media/technicCategory1.c7c90fbef2192fba6cc2.png",
+    "static/media/technicCategory7.png": "/autoelectric/static/media/technicCategory7.67690e73d73fa9b9f835.png",
+    "static/media/productImg.png": "/autoelectric/static/media/productImg.5e23e9f73bf39183fd12.png",
+    "static/media/technicCategory3.png": "/autoelectric/static/media/technicCategory3.4209d6b1727a4044c449.png",
+    "static/media/technicCategory5.png": "/autoelectric/static/media/technicCategory5.c6cfe1fcedd167e71e8b.png",
+    "static/media/slick.svg": "/autoelectric/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/autoelectric/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/autoelectric/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/autoelectric/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/autoelectric/index.html",
+    "main.c648af31.css.map": "/autoelectric/static/css/main.c648af31.css.map",
+    "main.045517f5.js.map": "/autoelectric/static/js/main.045517f5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c648af31.css",
+    "static/js/main.045517f5.js"
+  ]
+}
